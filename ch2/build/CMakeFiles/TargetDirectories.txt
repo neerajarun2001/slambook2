@@ -1,5 +1,0 @@
-/Users/Nrj/Desktop/mars/slam/slambook2/local/slambook2/ch2/build/CMakeFiles/useHello.dir
-/Users/Nrj/Desktop/mars/slam/slambook2/local/slambook2/ch2/build/CMakeFiles/rebuild_cache.dir
-/Users/Nrj/Desktop/mars/slam/slambook2/local/slambook2/ch2/build/CMakeFiles/edit_cache.dir
-/Users/Nrj/Desktop/mars/slam/slambook2/local/slambook2/ch2/build/CMakeFiles/hello_shared.dir
-/Users/Nrj/Desktop/mars/slam/slambook2/local/slambook2/ch2/build/CMakeFiles/helloSLAM.dir
